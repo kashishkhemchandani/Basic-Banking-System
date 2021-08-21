@@ -1,7 +1,7 @@
-# Basic_Banking_System
+# Basic-Banking-System
 This project is done as a part of The Sparks Foundation Internship  #GRIPAug21
 
-[![email](https://img.shields.io/static/v1.svg?label=Basic_Banking&message=System&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://github.com/kashishkhemchandani/bank1) [![outlook](https://img.shields.io/static/v1.svg?label=Outlook&message=Template&color=grey&logo=microsoft-outlook&style=flat&logoColor=white&colorA=dodgerblue)](https://github.com/kashishkhemchandani/bank1)
+[![email](https://img.shields.io/static/v1.svg?label=Basic-Banking&message=System&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://github.com/kashishkhemchandani/bank1) [![outlook](https://img.shields.io/static/v1.svg?label=Outlook&message=Template&color=grey&logo=microsoft-outlook&style=flat&logoColor=white&colorA=dodgerblue)](https://github.com/kashishkhemchandani/bank1)
 
 
 
@@ -27,7 +27,7 @@ This project is done as a part of The Sparks Foundation Internship  #GRIPAug21
 
 ```
 
-  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@thedramatickid&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/kashish.khemchandani/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@kashish-khemchandani-47819a138/&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/kashish-khemchandani-47819a138/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@_thedramatickid&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/_thedramatickid)
+  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@kashish.khemchandani&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/kashish.khemchandani/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@kashish-khemchandani-47819a138/&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/kashish-khemchandani-47819a138/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@kashish40780008&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/kashish40780008)
 
 ***Glad to see you here! Show some love by [starring](https://github.com/kashishkhemchandani/Email-Signature/) this repo.***
 
